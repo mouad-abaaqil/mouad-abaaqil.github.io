@@ -4,7 +4,13 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/mouad-abaaqil)  
 📌 Ouvert aux opportunités en Data Science et Machine Learning  
 
-## 🔧 Compétences Techniques  
+<hr style="border: 1px solid #ddd; margin: 30px 0;">
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    🔧 Compétences Techniques
+</h2>
+
 **Programmation :** Python, C, SQL, PHP, Java  
 **Visualisation de Données :** Power BI, Tableau  
 **Bases de Données :** MySQL, PostgreSQL  
@@ -13,7 +19,14 @@
 **Contrôle de Version :** Git  
 **Modélisation & Conception :** UML, Merise  
 
-## 🎓 Formation  
+<hr style="border: 1px solid #ddd; margin: 30px 0;">
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    🎓 Formation
+</h2>
+
+
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/eilco.png" width="85"/>
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -30,7 +43,13 @@
     </div>
 </div>
 
-## 💼 Expériences Professionnelles  
+<hr style="border: 1px solid #ddd; margin: 30px 0;">
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    💼 Expériences Professionnelles
+</h2>
+ 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/srmsm.png" width="50"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -77,7 +96,14 @@
 - Préparation et livraison de pizzas  
 - Gestion des commandes et relation client  
 
-## 📌 Projets  
+
+<hr style="border: 1px solid #ddd; margin: 30px 0;">
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    📌 Projets
+</h2>
+ 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/inoxtrade.png" width="120"/>
     <h3 style="margin: 0; align-self: center;">Plateforme de Trading Algorithmique</h3>
@@ -119,29 +145,46 @@
 - Connexion à une base de données PostgreSQL pour mise à jour dynamique des actifs  
 - Analyse des risques et recommandations basées sur l'IA pour optimiser les investissements  
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
+  
+
+<hr style="border: 1px solid #ddd; margin: 30px 0;">
 
 
-## 📜 Certifications & Réalisations  
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    📜 Certifications & Réalisations
+</h2>
 
 - **Certification Google Data Analytics**  
 - **Certification IBM Machine Learning**  
 - **Participation à Kaggle Competitions**  
-- **Lauréat d’un hackathon Data Science**  
+- **Lauréat d’un hackathon Data Science**   
 
-## 🎤 Conférences & Contributions 
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    🎤 Conférences & Contributions
+</h2>
 
 - Conférencier invité : Machine Learning & Data Science  
 - Contributeur à des blogs et recherches en Data Science  
-- Actif dans des projets open-source en Data Science  
+- Actif dans des projets open-source en Data Science    
 
-## 🎯 Centres d’Intérêt  
+<hr style="border: 1px solid #ddd; margin: 30px 0;">
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    🎯 Centres d’Intérêt
+</h2>
 
 ⚽ **Sports :** Football, Jogging  
 🎬 **Vidéographie**  
 🌍 **Voyages**  
-💡 **Développement Personnel**  
+💡 **Développement Personnel**    
 
-## 📬 Me Contacter !  
+<hr style="border: 1px solid #ddd; margin: 30px 0;">
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    📬 Me Contacter !
+</h2>
 
 Si vous souhaitez collaborer sur des projets en IA, Machine Learning ou Data Science, n'hésitez pas à me contacter ! 🚀  
 
