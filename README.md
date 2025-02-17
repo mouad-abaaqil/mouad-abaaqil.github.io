@@ -32,13 +32,14 @@
 
 ## 💼 Expériences Professionnelles  
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/flunch.png" width="70"/>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="assets/logos/srmsm.png" width="50"/>
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <h3 style="margin: 0;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
         <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
     </div>
 </div>
-  
+
+
 - Prétraitement et analyse des données sur la qualité de l'eau  
 - Identification des facteurs clés influençant la qualité de l'eau  
 - Développement de modèles prédictifs pour anticiper les conditions de l'eau  
@@ -51,32 +52,28 @@
         <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
 </div>
-
-
-
 - Assistance aux actions humanitaires et sociales  
 - Soutien aux personnes en difficulté  
 
+
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/flunch.png" width="50"/>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <h3 style="margin: 0;">Flunch (Décembre 2022 – Avril 2023)</h3>
         <p style="margin: 0; font-weight: bold;">Equipier Polyvalent</p>
     </div>
 </div>
- 
 - Service client et gestion des commandes  
 - Maintien de l’hygiène et de l’organisation de l’espace de travail  
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/dominos.png" width="50"/>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <h3 style="margin: 0;">Domino’s Pizza (Juin 2024 – Août 2024)</h3>
         <p style="margin: 0; font-weight: bold;">Livreur Polyvalent</p>
     </div>
 </div>
-  
 - Préparation et livraison de pizzas  
 - Gestion des commandes et relation client  
 
