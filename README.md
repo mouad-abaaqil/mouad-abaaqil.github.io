@@ -14,10 +14,10 @@
 **Modélisation & Conception :** UML, Merise  
 
 ## 🎓 Formation  
-### 📖 <img src="assets/eilco.png" width="20"/> EIL Côte d’Opale (2022 – 2027)  
+### <img src="assets/eilco.png" width="20"/> EIL Côte d’Opale (2022 – 2027)  
 École d’ingénieur en Informatique  
 
-### 📖 <img src="assets/alhanane4.png" width="20"/> Groupe Scolaire Al Hanane IV (2021 – 2022)  
+### <img src="assets/alhanane4.png" width="20"/> Groupe Scolaire Al Hanane IV (2021 – 2022)  
 Baccalauréat Option Sciences Mathématiques B  
 
 ## 💼 Expériences Professionnelles  
@@ -38,7 +38,7 @@ Baccalauréat Option Sciences Mathématiques B
 - Service client et gestion des commandes  
 - Maintien de l’hygiène et de l’organisation de l’espace de travail  
 
-### <img src="assets/dominos.png" width="20"/> Job d'Été @ Domino’s (Juin – Août 2024)  
+### <img src="assets/dominos.png" width="20"/> Domino’s Pizza (Juin – Août 2024)  
 **Livreur Polyvalent**
 - Préparation et livraison de pizzas  
 - Gestion des commandes et relation client  
