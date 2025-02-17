@@ -14,9 +14,9 @@
 **Modélisation & Conception :** UML, Merise  
 
 ## 🎓 Formation  
-<div style="display: flex; align-items: center;">
-    <img src="assets/logos/eilco.png" width="50" style="margin-right: 10px;"/>
-    <h3>EIL Côte d’Opale (2022 – 2027)</h3>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="assets/logos/eilco.png" width="50"/>
+    <h3 style="margin: 0; align-self: center;">EIL Côte d’Opale (2022 – 2027)</h3>
 </div>
 École d’ingénieur en Informatique  
 
