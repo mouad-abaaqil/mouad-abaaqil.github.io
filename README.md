@@ -147,6 +147,18 @@
 - **Lauréat d’un hackathon Data Science**   
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    🌍 Langues Parlées
+</h2>
+
+<ul>
+    <li>🇦🇪 **Arabe** – Maternelle</li>
+    <li>🇫🇷 **Français** – Avancé</li>
+    <li>🇬🇧 **Anglais** – Courant</li>
+    <li>🇪🇸 **Espagnol** – Élémentaire</li>
+</ul>
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎤 Conférences & Contributions
 </h2>
 
