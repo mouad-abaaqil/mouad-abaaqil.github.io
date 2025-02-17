@@ -40,20 +40,20 @@ Baccalauréat Option Sciences Mathématiques B
 - Gestion des commandes et relation client  
 
 ## 📌 Projets  
-### 📈 <img src="assets/trading.png" width="50"/> Plateforme de Trading Algorithmique  
+### 📈 <img src="assets/inoxtrade.png" width="50"/> Plateforme de Trading Algorithmique  
 - Développement d'un bot de trading automatisé avec gestion des risques  
 - Création d'un tableau de bord pour suivre les stratégies de trading  
 - Implémentation d’un backtesting sur des données de marché réelles  
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
 
-### 💰 <img src="assets/finance.png" width="50"/> Application de Suivi des Finances Personnelles  
+### 💰 <img src="assets/dirhami.png" width="50"/> Application de Suivi des Finances Personnelles  
 - Développement d'une application web pour la catégorisation des dépenses  
 - Intégration d'API bancaires et OCR pour l'analyse des reçus  
 - Implémentation d’une classification des transactions basée sur l’IA  
 - Sécurisation avec authentification à deux facteurs (2FA)  
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
 
-### 📦 <img src="assets/package.png" width="50"/> Système de Protection des Colis  
+### 📦 <img src="assets/tiltalert.png" width="50"/> Système de Protection des Colis  
 - Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis  
 - Programmation d’un système d’alerte basé sur Arduino  
 - Intégration d’alarmes visuelles et sonores pour détecter les impacts  
