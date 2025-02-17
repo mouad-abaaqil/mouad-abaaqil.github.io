@@ -16,54 +16,65 @@
 ## 🎓 Formation  
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/eilco.png" width="85"/>
-    <h3 style="margin: 0; align-self: center;">EIL Côte d’Opale (2022 – 2027)</h3>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0;">EIL Côte d’Opale (2022 – 2027)</h3>
+        <p style="margin: 0; font-weight: bold;">École d’ingénieur en Informatique</p>
+    </div>
 </div>
-
-**École d’ingénieur en Informatique**
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/alhanane4.png" width="85"/>
-    <h3 style="margin: 0; align-self: center;">Groupe Scolaire Al Hanane IV (2021 – 2022)</h3>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0;">Groupe Scolaire Al Hanane IV (2021 – 2022)</h3>
+        <p style="margin: 0; font-weight: bold;">Baccalauréat Option Sciences Mathématiques B</p>
+    </div>
 </div>
-
-**Baccalauréat Option Sciences Mathématiques B** 
 
 ## 💼 Expériences Professionnelles  
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/srmsm.png" width="70"/>
-    <h3 style="margin: 0; align-self: center;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
+    <img src="assets/logos/flunch.png" width="70"/>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
+        <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
+    </div>
 </div>
-
-**Data Scientist Stagiaire**  
+  
 - Prétraitement et analyse des données sur la qualité de l'eau  
 - Identification des facteurs clés influençant la qualité de l'eau  
 - Développement de modèles prédictifs pour anticiper les conditions de l'eau  
 - Création de tableaux de bord interactifs pour le suivi des KPI  
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<<div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/croixrouge.png" width="70"/>
-    <h3 style="margin: 0; align-self: center;">Croix-Rouge (Jan 2025 – Présent)</h3>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0;">Croix-Rouge (Jan 2025 – Présent)</h3>
+        <p style="margin: 0; font-weight: bold;">Bénévole</p>
+    </div>
 </div>
-
-**Bénévole**  
+ 
 - Assistance aux actions humanitaires et sociales  
 - Soutien aux personnes en difficulté  
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/flunch.png" width="50"/>
-    <h3 style="margin: 0; align-self: center;">Flunch (Décembre 2022 – Avril 2023)</h3>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0;">Flunch (Décembre 2022 – Avril 2023)</h3>
+        <p style="margin: 0; font-weight: bold;">Equipier Polyvalent</p>
+    </div>
 </div>
-
-**Equipier Polyvalent**  
+ 
 - Service client et gestion des commandes  
 - Maintien de l’hygiène et de l’organisation de l’espace de travail  
 
+
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/dominos.png" width="50"/>
-    <h3 style="margin: 0; align-self: center;">Domino’s Pizza (Juin – Août 2024)</h3>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <h3 style="margin: 0;">Domino’s Pizza (Juin 2024 – Août 2024)</h3>
+        <p style="margin: 0; font-weight: bold;">Livreur Polyvalent</p>
+    </div>
 </div>
-
-**Livreur Polyvalent**  
+  
 - Préparation et livraison de pizzas  
 - Gestion des commandes et relation client  
 
