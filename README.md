@@ -4,8 +4,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/mouad-abaaqil)  
 📌 Ouvert aux opportunités en Data Science et Machine Learning  
 
-<hr style="border: 1px solid #ddd; margin: 30px 0;">
-
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🔧 Compétences Techniques
@@ -18,9 +16,6 @@
 **Gestion de Projet :** Jira, Confluence  
 **Contrôle de Version :** Git  
 **Modélisation & Conception :** UML, Merise  
-
-<hr style="border: 1px solid #ddd; margin: 30px 0;">
-
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎓 Formation
@@ -42,9 +37,6 @@
         <p style="margin: 0; font-weight: bold;">Baccalauréat Option Sciences Mathématiques B</p>
     </div>
 </div>
-
-<hr style="border: 1px solid #ddd; margin: 30px 0;">
-
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     💼 Expériences Professionnelles
@@ -97,9 +89,6 @@
 - Gestion des commandes et relation client  
 
 
-<hr style="border: 1px solid #ddd; margin: 30px 0;">
-
-
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     📌 Projets
 </h2>
@@ -147,8 +136,6 @@
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
   
 
-<hr style="border: 1px solid #ddd; margin: 30px 0;">
-
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     📜 Certifications & Réalisations
@@ -167,9 +154,6 @@
 - Contributeur à des blogs et recherches en Data Science  
 - Actif dans des projets open-source en Data Science    
 
-<hr style="border: 1px solid #ddd; margin: 30px 0;">
-
-
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎯 Centres d’Intérêt
 </h2>
@@ -178,8 +162,6 @@
 🎬 **Vidéographie**  
 🌍 **Voyages**  
 💡 **Développement Personnel**    
-
-<hr style="border: 1px solid #ddd; margin: 30px 0;">
 
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
