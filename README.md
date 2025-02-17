@@ -46,12 +46,14 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/croixrouge.png" width="70"/>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <h3 style="margin: 0;">Croix-Rouge (Jan 2025 – Présent)</h3>
         <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
 </div>
- 
+
+
+
 - Assistance aux actions humanitaires et sociales  
 - Soutien aux personnes en difficulté  
 
