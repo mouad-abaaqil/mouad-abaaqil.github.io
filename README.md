@@ -15,14 +15,14 @@
 
 ## 🎓 Formation  
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/eilco.png" width="50"/>
+    <img src="assets/logos/eilco.png" width="85"/>
     <h3 style="margin: 0; align-self: center;">EIL Côte d’Opale (2022 – 2027)</h3>
 </div>
 
 **École d’ingénieur en Informatique**
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/alhanane4.png" width="50"/>
+    <img src="assets/logos/alhanane4.png" width="85"/>
     <h3 style="margin: 0; align-self: center;">Groupe Scolaire Al Hanane IV (2021 – 2022)</h3>
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 💼 Expériences Professionnelles  
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/srmsm.png" width="50"/>
+    <img src="assets/logos/srmsm.png" width="70"/>
     <h3 style="margin: 0; align-self: center;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
 </div>
 
@@ -41,7 +41,7 @@
 - Création de tableaux de bord interactifs pour le suivi des KPI  
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/croixrouge.png" width="50"/>
+    <img src="assets/logos/croixrouge.png" width="70"/>
     <h3 style="margin: 0; align-self: center;">Croix-Rouge (Jan 2025 – Présent)</h3>
 </div>
 
@@ -69,7 +69,7 @@
 
 ## 📌 Projets  
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/inoxtrade.png" width="50"/>
+    <img src="assets/logos/inoxtrade.png" width="120"/>
     <h3 style="margin: 0; align-self: center;">Plateforme de Trading Algorithmique</h3>
 </div>
 
@@ -79,7 +79,7 @@
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/dirhami.png" width="50"/>
+    <img src="assets/logos/dirhami.png" width="110"/>
     <h3 style="margin: 0; align-self: center;">Application de Suivi des Finances Personnelles</h3>
 </div>
 
@@ -88,6 +88,28 @@
 - Implémentation d’une classification des transactions basée sur l’IA  
 - Sécurisation avec authentification à deux facteurs (2FA)  
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="assets/logos/tiltalert.png" width="120"/>
+    <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
+</div>
+
+- Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis  
+- Programmation d’un système d’alerte basé sur Arduino  
+- Intégration d’alarmes visuelles et sonores pour détecter les impacts  
+🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="assets/logos/abq_banking.png" width="120"/>
+    <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
+</div>
+
+- Développement d'une plateforme de gestion de portefeuille d’investissement  
+- Intégration de Power BI pour des tableaux de bord interactifs en temps réel  
+- Connexion à une base de données PostgreSQL pour mise à jour dynamique des actifs  
+- Analyse des risques et recommandations basées sur l'IA pour optimiser les investissements  
+🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
+
 
 ## 📜 Certifications & Réalisations  
 
