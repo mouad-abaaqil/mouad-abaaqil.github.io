@@ -1,7 +1,7 @@
 🚀 Mouad Abaaqil – Data Scientist  
 📍 Calais, France  
 📧 abaaqilmouad@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mouad_abaaqil)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mouad-abaaqil)  
 📌 Ouvert aux opportunités en Data Science et Machine Learning  
 
 ## 🔧 Compétences Techniques  
@@ -14,60 +14,71 @@
 **Modélisation & Conception :** UML, Merise  
 
 ## 🎓 Formation  
-### <img src="assets/logos/eilco.png" width="20"/> EIL Côte d’Opale (2022 – 2027)  
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/eilco.png" width="50" style="margin-right: 10px;"/>
+    <h3>EIL Côte d’Opale (2022 – 2027)</h3>
+</div>
 École d’ingénieur en Informatique  
 
-### <img src="assets/logos/alhanane4.png" width="20"/> Groupe Scolaire Al Hanane IV (2021 – 2022)  
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/alhanane4.png" width="50" style="margin-right: 10px;"/>
+    <h3>Groupe Scolaire Al Hanane IV (2021 – 2022)</h3>
+</div>
 Baccalauréat Option Sciences Mathématiques B  
 
 ## 💼 Expériences Professionnelles  
-### <img src="assets/logos/srmsm.png" width="20"/> SRM Souss Massa (Mar 2024 – Avr 2024)
-**Data Scientist Stagiaire**
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/srmsm.png" width="50" style="margin-right: 10px;"/>
+    <h3>SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
+</div>
+**Data Scientist Stagiaire**  
 - Prétraitement et analyse des données sur la qualité de l'eau  
 - Identification des facteurs clés influençant la qualité de l'eau  
 - Développement de modèles prédictifs pour anticiper les conditions de l'eau  
 - Création de tableaux de bord interactifs pour le suivi des KPI  
 
-### <img src="assets/logos/croixrouge.png" width="20"/> Croix-Rouge (Jan 2025 – Présent)
-**Bénévole**
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/croixrouge.png" width="50" style="margin-right: 10px;"/>
+    <h3>Croix-Rouge (Jan 2025 – Présent)</h3>
+</div>
+**Bénévole**  
 - Assistance aux actions humanitaires et sociales  
 - Soutien aux personnes en difficulté  
 
-### <img src="assets/logos/flunch.png" width="20"/> Flunch (Décembre 2022 – Avril 2023)
-**Equipier Polyvalent**
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/flunch.png" width="50" style="margin-right: 10px;"/>
+    <h3>Flunch (Décembre 2022 – Avril 2023)</h3>
+</div>
+**Equipier Polyvalent**  
 - Service client et gestion des commandes  
 - Maintien de l’hygiène et de l’organisation de l’espace de travail  
 
-### <img src="assets/logos/dominos.png" width="20"/> Domino’s Pizza (Juin – Août 2024)  
-**Livreur Polyvalent**
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/dominos.png" width="50" style="margin-right: 10px;"/>
+    <h3>Domino’s Pizza (Juin – Août 2024)</h3>
+</div>
+**Livreur Polyvalent**  
 - Préparation et livraison de pizzas  
 - Gestion des commandes et relation client  
 
 ## 📌 Projets  
-### <img src="assets/logos/inoxtrade.png" width="20"/> Plateforme de Trading Algorithmique  
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/inoxtrade.png" width="50" style="margin-right: 10px;"/>
+    <h3>Plateforme de Trading Algorithmique</h3>
+</div>
 - Développement d'un bot de trading automatisé avec gestion des risques  
 - Création d'un tableau de bord pour suivre les stratégies de trading  
 - Implémentation d’un backtesting sur des données de marché réelles  
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
 
-### <img src="assets/logos/dirhami.png" width="20"/> Application de Suivi des Finances Personnelles  
+<div style="display: flex; align-items: center;">
+    <img src="assets/logos/dirhami.png" width="50" style="margin-right: 10px;"/>
+    <h3>Application de Suivi des Finances Personnelles</h3>
+</div>
 - Développement d'une application web pour la catégorisation des dépenses  
 - Intégration d'API bancaires et OCR pour l'analyse des reçus  
 - Implémentation d’une classification des transactions basée sur l’IA  
 - Sécurisation avec authentification à deux facteurs (2FA)  
-🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
-
-### <img src="assets/logos/tiltalert.png" width="20"/> Système de Protection des Colis  
-- Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis  
-- Programmation d’un système d’alerte basé sur Arduino  
-- Intégration d’alarmes visuelles et sonores pour détecter les impacts  
-🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
-
-### <img src="assets/logos/abq_banking.png" width="20"/> ABQ Banking  
-- Développement d'une plateforme de gestion de portefeuille d’investissement  
-- Intégration de Power BI pour des tableaux de bord interactifs en temps réel  
-- Connexion à une base de données PostgreSQL pour mise à jour dynamique des actifs  
-- Analyse des risques et recommandations basées sur l'IA pour optimiser les investissements  
 🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
 
 ## 📜 Certifications & Réalisations  
