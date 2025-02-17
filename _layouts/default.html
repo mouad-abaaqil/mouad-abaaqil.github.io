@@ -26,8 +26,6 @@
             </a>
         </h1>
 
-
-
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -38,9 +36,14 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <div style="text-align: center; margin-top: 15px;">
+          <p style="font-size: 20px; font-weight: bold;">🚀 Mouad Abaaqil – Data Scientist</p>
+          <p>📍 Calais, France</p>
+          <p>📧 <a href="mailto:abaaqilmouad@gmail.com" style="text-decoration: none; color: black;">abaaqilmouad@gmail.com</a></p>
+          <p>🔗 <a href="https://www.linkedin.com/in/mouad-abaaqil" target="_blank" style="text-decoration: none; color: black;">LinkedIn</a></p>
+          <p>📌 Ouvert aux opportunités en Data Science et Machine Learning</p>
+        </div>
+
 
         {% if site.show_downloads %}
         <ul class="downloads">
