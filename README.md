@@ -44,7 +44,7 @@
 - Développement de modèles prédictifs pour anticiper les conditions de l'eau  
 - Création de tableaux de bord interactifs pour le suivi des KPI  
 
-<<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/croixrouge.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: center;">
         <h3 style="margin: 0;">Croix-Rouge (Jan 2025 – Présent)</h3>
