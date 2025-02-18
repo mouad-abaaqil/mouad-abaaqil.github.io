@@ -24,7 +24,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/eilco.png" width="85"/>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin_bottom : 10px">
         <h3 style="margin: 0;">EIL Côte d’Opale (2022 – 2027)</h3>
         <p style="margin: 0; font-weight: bold;">École d’ingénieur en Informatique</p>
     </div>
