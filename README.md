@@ -99,10 +99,12 @@
     <h3 style="margin: 0; align-self: center;">Plateforme de Trading Algorithmique</h3>
 </div>
 
-- Développement d'un bot de trading automatisé avec gestion des risques  
-- Création d'un tableau de bord pour suivre les stratégies de trading  
-- Implémentation d’un backtesting sur des données de marché réelles  
-🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
+<ul style="margin-top: 10px;">
+    <li>Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis</li>
+    <li>Programmation d’un système d’alerte basé sur Arduino</li>
+    <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
+    <li>🔗 [GitHub Repository](https://github.com/mouad-abaaqil)</li>
+</ul>  
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/dirhami.png" width="110"/>
