@@ -213,6 +213,20 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/geneveuni.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Understanding Financial Markets</h3>
+            <p style="margin: 0; font-weight: bold;">Université de Genève</p>
+        </div>
+    </div>
+    <a href="https://www.coursera.org/verify/0VXX1XPG41JF" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="assets/logos/pennuni.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">English for Business and Entrepreneurship</h3>
