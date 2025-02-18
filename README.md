@@ -183,7 +183,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="assets/logos/ibm.png" width="50"/>
+        <img src="assets/logos/IBM.png" width="50"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">Python for Data Science, AI & Development</h3>
             <p style="margin: 0; font-weight: bold;">IBM</p>
