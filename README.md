@@ -12,6 +12,19 @@
 **Systèmes d'exploitations :** Windows, Linux  
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    🛠️ Soft Skills
+</h2>
+<ul style="list-style: none; padding: 0; margin: 0;">
+    <li>✅ Travail en équipe</li>
+    <li>🎯 Résolution de problèmes</li>
+    <li>💡 Créativité et innovation</li>
+    <li>🗣️ Communication efficace</li>
+    <li>⏳ Gestion du temps et priorisation</li>
+    <li>📊 Esprit analytique</li>
+</ul>
+
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎓 Formation
 </h2>
 
@@ -168,8 +181,24 @@
     📜 Certifications & Réalisations
 </h2>
 
-- **Certification Google Data Analytics**  
-- **Certification IBM Machine Learning**  
+<ul style="list-style: none; padding: 0; margin: 0;">
+    <li>
+        <a href="https://www.coursera.org/verify/Y6TEZ5Y7JTL2" target="_blank" style="text-decoration: none; color: #0366d6;">
+            <strong>🎓 Python for Data Science, AI & Development - IBM</strong>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.coursera.org/verify/CMVBDB7LPXB3" target="_blank" style="text-decoration: none; color: #0366d6;">
+            <strong>🎓 English for Business and Entrepreneurship - University of Pennsylvania</strong>
+        </a>
+    </li>
+    <li>🏅 Participation à Kaggle Competitions</li>
+    <li>🥇 Lauréat d’un hackathon Data Science</li>
+</ul>
+
+
+- **Python for Data Science, AI & Development - IBM**  
+- **English for Business and Entrepreneurship - University of Pennsylvania**  
 - **Participation à Kaggle Competitions**  
 - **Lauréat d’un hackathon Data Science**   
 
