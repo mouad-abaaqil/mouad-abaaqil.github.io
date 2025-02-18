@@ -105,7 +105,6 @@
     <li>Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis</li>
     <li>Programmation d’un système d’alerte basé sur Arduino</li>
     <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
-    <li>🔗 [GitHub Repository](https://github.com/mouad-abaaqil)</li>
 </ul>  
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
@@ -199,16 +198,3 @@
 🎬 **Vidéographie**  
 🌍 **Voyages**  
 💡 **Développement Personnel**    
-
-
-<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
-    📬 Me Contacter !
-</h2>
-
-Si vous souhaitez collaborer sur des projets en IA, Machine Learning ou Data Science, n'hésitez pas à me contacter ! 🚀  
-
-📧 abaaqilmouad@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mouad-abaaqil)  
-📌 GitHub : [@mouad-abaaqil](https://github.com/mouad-abaaqil)  
-
-🔥 Prêt à relever de nouveaux défis en Data Science & IA !
