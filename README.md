@@ -86,7 +86,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/croixrouge.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <h3 style="margin: 0;">Croix-Rouge (Jan 2025 – Présent)</h3>
+        <h3 style="margin: 0;">Croix-Rouge (Jan. 2025 – Présent)</h3>
         <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
 </div>
@@ -94,6 +94,20 @@
     <li>Assistance aux actions humanitaires et sociales</li>
     <li>Soutien aux personnes en difficulté</li>
 </ul>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="assets/logos/clubalmaarifa.png" width="70"/>
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <h3 style="margin: 0;">Club Al Maarifa (Sep. 2020 – Jui. 2022)</h3>
+        <p style="margin: 0; font-weight: bold;">Bénévole</p>
+    </div>
+</div>
+<ul style="margin-top: 10px;">
+    <li>Assistance aux actions humanitaires et sociales</li>
+    <li>Soutien aux personnes en difficulté</li>
+</ul>
+
+
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/flunch.png" width="70"/>
