@@ -1,10 +1,3 @@
-🚀 Mouad Abaaqil – Data Scientist  
-📍 Calais, France  
-📧 abaaqilmouad@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mouad-abaaqil)  
-📌 Ouvert aux opportunités en Data Science et Machine Learning  
-
-
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🔧 Compétences Techniques
 </h2>
@@ -51,12 +44,12 @@
     </div>
 </div>
 
-
-- Prétraitement et analyse des données sur la qualité de l'eau  
-- Identification des facteurs clés influençant la qualité de l'eau  
-- Développement de modèles prédictifs pour anticiper les conditions de l'eau  
-- Création de tableaux de bord interactifs pour le suivi des KPI  
-
+<ul style="margin-top: 10px;">
+    <li>Prétraitement et analyse des données sur la qualité de l'eau</li>
+    <li>Identification des facteurs clés influençant la qualité de l'eau</li>
+    <li>Développement de modèles prédictifs pour anticiper les conditions de l'eau</li>
+    <li>Création de tableaux de bord interactifs pour le suivi des KPI</li>
+</ul>
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/croixrouge.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -64,9 +57,10 @@
         <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
 </div>
-- Assistance aux actions humanitaires et sociales  
-- Soutien aux personnes en difficulté  
-
+<ul style="margin-top: 10px;">
+    <li>Assistance aux actions humanitaires et sociales</li>
+    <li>Soutien aux personnes en difficulté</li>
+</ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/flunch.png" width="50"/>
@@ -75,9 +69,10 @@
         <p style="margin: 0; font-weight: bold;">Equipier Polyvalent</p>
     </div>
 </div>
-- Service client et gestion des commandes  
-- Maintien de l’hygiène et de l’organisation de l’espace de travail  
-
+<ul style="margin-top: 10px;">
+    <li>Service client et gestion des commandes</li>
+    <li>Maintien de l’hygiène et de l’organisation de l’espace de travail</li>
+</ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/dominos.png" width="50"/>
@@ -86,9 +81,10 @@
         <p style="margin: 0; font-weight: bold;">Livreur Polyvalent</p>
     </div>
 </div>
-- Préparation et livraison de pizzas  
-- Gestion des commandes et relation client  
-
+<ul style="margin-top: 10px;">
+    <li>Préparation et livraison de pizzas</li>
+    <li>Gestion des commandes et relation client</li>
+</ul>
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     📌 Projets
@@ -164,10 +160,11 @@
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎤 Conférences & Contributions
 </h2>
-
-- Conférencier invité : Machine Learning & Data Science  
-- Contributeur à des blogs et recherches en Data Science  
-- Actif dans des projets open-source en Data Science    
+<ul style="margin-top: 10px;">
+    <li>Conférencier invité : Machine Learning & Data Science</li>
+    <li>Contributeur à des blogs et recherches en Data Science</li>
+    <li>Actif dans des projets open-source en Data Science</li>
+</ul>
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎯 Centres d’Intérêt
