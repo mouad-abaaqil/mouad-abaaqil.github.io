@@ -1,15 +1,17 @@
-<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+<h2 style="font-size: 22px; font-weight: bold; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🔧 Compétences Techniques
 </h2>
-
-**Programmation :** Python, C, R, SQL, PHP, Java  
-**Visualisation de Données :** Power BI
-**Bases de Données :** MySQL, PostgreSQL  
-**Technologies Web :** HTML, CSS, JavaScript  
-**Gestion de Projet :** Jira, Confluence  
-**Contrôle de Version :** Git  
-**Modélisation & Conception :** UML, Merise 
-**Systèmes d'exploitations :** Windows, Linux  
+<ul style="list-style: none; padding: 0; margin: 0;">
+    <li>💻 <strong>Programmation :</strong> Python, C, R, SQL, PHP, Java</li>
+    <li>📊 <strong>Visualisation de Données :</strong> Power BI</li>
+    <li>🗄️ <strong>Bases de Données :</strong> MySQL, PostgreSQL</li>
+    <li>🌐 <strong>Technologies Web :</strong> HTML, CSS, JavaScript</li>
+    <li>📅 <strong>Gestion de Projet :</strong> Jira, Confluence</li>
+    <li>🔄 <strong>Contrôle de Version :</strong> Git</li>
+    <li>📐 <strong>Modélisation & Conception :</strong> UML, Merise</li>
+    <li>🖥️ <strong>Systèmes d'exploitation :</strong> Windows, Linux</li>
+</ul>
+ 
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🛠️ Soft Skills
