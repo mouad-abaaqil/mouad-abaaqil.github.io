@@ -50,7 +50,7 @@
     </div>
     <a href="{{ '/assets/docs/ATTESTATION DU BACCALAURÉAT.pdf' | relative_url }}" download
        style="display: inline-block; text-decoration: none; background: #007bff; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-        <i class="fas fa-graduation-cap"></i> Attestation de Réussite
+        <i class="fas fa-graduation-cap"></i>
     </a>
 </div>
 
