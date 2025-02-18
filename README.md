@@ -111,33 +111,34 @@
     <h3 style="margin: 0; align-self: center;">Application de Suivi des Finances Personnelles</h3>
 </div>
 
-- Développement d'une application web pour la catégorisation des dépenses  
-- Intégration d'API bancaires et OCR pour l'analyse des reçus  
-- Implémentation d’une classification des transactions basée sur l’IA  
-- Sécurisation avec authentification à deux facteurs (2FA)  
-🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
+<ul style="margin-top: 10px;">
+    <li>Développement d'une application web pour la catégorisation des dépenses</li>
+    <li>Intégration d'API bancaires et OCR pour l'analyse des reçus</li>
+    <li>Implémentation d’une classification des transactions basée sur l’IA</li>
+    <li>Sécurisation avec authentification à deux facteurs (2FA)</li>
+</ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/tiltalert.png" width="120"/>
     <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
 </div>
 
-- Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis  
-- Programmation d’un système d’alerte basé sur Arduino  
-- Intégration d’alarmes visuelles et sonores pour détecter les impacts  
-🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
+<ul style="margin-top: 10px;">
+    <li>Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis</li>
+    <li>Programmation d’un système d’alerte basé sur Arduino</li>
+    <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
+</ul> 
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/abq_banking.png" width="120"/>
     <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
 </div>
-
-- Développement d'une plateforme de gestion de portefeuille d’investissement  
-- Intégration de Power BI pour des tableaux de bord interactifs en temps réel  
-- Connexion à une base de données PostgreSQL pour mise à jour dynamique des actifs  
-- Analyse des risques et recommandations basées sur l'IA pour optimiser les investissements  
-🔗 [GitHub Repository](https://github.com/mouad-abaaqil)  
-  
+<ul style="margin-top: 10px;">
+    <li>Développement d'une plateforme de gestion de portefeuille d’investissement</li>
+    <li>Intégration de Power BI pour des tableaux de bord interactifs en temps réel</li>
+    <li>Connexion à une base de données PostgreSQL pour mise à jour dynamique des actifs</li>
+    <li>Analyse des risques et recommandations basées sur l'IA pour optimiser les investissements</li>
+</ul> 
 
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
