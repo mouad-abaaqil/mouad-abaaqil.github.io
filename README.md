@@ -116,7 +116,7 @@
 </div>
 
 <ul style="margin-top: 10px;">
-    <li>Conçu une plateforme pour le trading algorithmique.
+    <li>Conçu une plateforme pour le trading algorithmique.</li>
     <li>Développé un bot avec gestion avancée des risques.</li>
     <li>Créé un tableau de bord pour surveiller les stratégies.</li>
     <li>Optimisé les stratégies via du backtesting sur données réelles.</li>
@@ -195,12 +195,6 @@
     <li>🏅 Participation à Kaggle Competitions</li>
     <li>🥇 Lauréat d’un hackathon Data Science</li>
 </ul>
-
-
-- **Python for Data Science, AI & Development - IBM**  
-- **English for Business and Entrepreneurship - University of Pennsylvania**  
-- **Participation à Kaggle Competitions**  
-- **Lauréat d’un hackathon Data Science**   
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🌍 Langues Parlées
