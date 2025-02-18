@@ -39,13 +39,20 @@
     </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/alhanane4.png" width="85"/>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <h3 style="margin: 0;">Groupe Scolaire Al Hanane IV (2021 – 2022)</h3>
-        <p style="margin: 0; font-weight: bold;">Baccalauréat Option Sciences Mathématiques B</p>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/alhanane4.png" width="85"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Groupe Scolaire Al Hanane IV (2021 – 2022)</h3>
+            <p style="margin: 0; font-weight: bold;">Baccalauréat Option Sciences Mathématiques B</p>
+        </div>
     </div>
+    <a href="{{ '/assets/docs/ATTESTATION DE BACCALAUREAT.pdf' | relative_url }}" download
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        🎓 Télécharger le Diplôme
+    </a>
 </div>
+
 
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
