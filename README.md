@@ -183,7 +183,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="assets/logos/IBM.png" width="50"/>
+        <img src="assets/logos/IBM.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">Python for Data Science, AI & Development</h3>
             <p style="margin: 0; font-weight: bold;">IBM</p>
@@ -197,7 +197,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="assets/logos/IBM.png" width="50"/>
+        <img src="assets/logos/IBM.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">Databases and SQL for Data Science with Python</h3>
             <p style="margin: 0; font-weight: bold;">IBM</p>
@@ -211,7 +211,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="assets/logos/pennuni.png" width="50"/>
+        <img src="assets/logos/pennuni.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">English for Business and Entrepreneurship</h3>
             <p style="margin: 0; font-weight: bold;">University of Pennsylvania</p>
@@ -225,7 +225,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="assets/logos/dukeuni.png" width="50"/>
+        <img src="assets/logos/dukeuni.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">Data Science Math Skills</h3>
             <p style="margin: 0; font-weight: bold;">Duke University</p>
@@ -238,11 +238,9 @@
 </div>
 
 
-
-
 <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>🏅 Participation à Kaggle Competitions</li>
-    <li>🥇 Lauréat d’un hackathon Data Science</li>
+    <li><strong>🏅 Participation à Kaggle Competitions</strong></li>
+    <li><strong>🥇 Lauréat d’un hackathon Data Science</strong></li>
 </ul>
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
