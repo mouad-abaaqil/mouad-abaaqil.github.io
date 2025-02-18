@@ -126,15 +126,15 @@
     <li>Sécurisation avec authentification à deux facteurs (2FA)</li>
 </ul>
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
-    <img src="assets/logos/tiltalert.png" width="120"/>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/tiltalert.png" width="120"/>
         <h3 style="margin: 0;">Système de Protection des Colis</h3>
-        <a href="https://github.com/mouad-abaaqil/tiltalert" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 10px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-            <i class="fab fa-github"></i> Repo
-        </a>
     </div>
+    <a href="https://github.com/mouad-abaaqil/tiltalert" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fab fa-github"></i> Repo
+    </a>
 </div>
 
 <ul style="margin-top: 10px;">
@@ -142,6 +142,7 @@
     <li>Programmation d’un système d’alerte basé sur Arduino</li>
     <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
 </ul>
+
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
