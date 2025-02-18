@@ -22,9 +22,9 @@
 </h2>
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
     <img src="assets/logos/eilco.png" width="85"/>
-    <div style="display: flex; flex-direction: column; align-items: center; margin_bottom : 10px">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <h3 style="margin: 0;">EIL Côte d’Opale (2022 – 2027)</h3>
         <p style="margin: 0; font-weight: bold;">École d’ingénieur en Informatique</p>
     </div>
@@ -37,6 +37,7 @@
         <p style="margin: 0; font-weight: bold;">Baccalauréat Option Sciences Mathématiques B</p>
     </div>
 </div>
+
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     💼 Expériences Professionnelles
