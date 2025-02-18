@@ -6,11 +6,14 @@
     <li>📊 <strong>Visualisation de Données :</strong> Power BI</li>
     <li>🗄️ <strong>Bases de Données :</strong> MySQL, PostgreSQL</li>
     <li>🌐 <strong>Technologies Web :</strong> HTML, CSS, JavaScript</li>
-    <li>📅 <strong>Gestion de Projet :</strong> Jira, Confluence</li>
-    <li>🔄 <strong>Contrôle de Version :</strong> Git</li>
+    <li>📅 <strong>Gestion de Projet :</strong> Jira, Confluence</li>   
+    <li>📝 <strong>Bureautique :</strong> Word, Excel, PowerPoint</li>
     <li>📐 <strong>Modélisation & Conception :</strong> UML, Merise</li>
     <li>🖥️ <strong>Systèmes d'exploitation :</strong> Windows, Linux</li>
+    <li>📚 <strong>Librairies Data Science :</strong> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
+    <li>🛠️ <strong>Outils de Développement :</strong> Git, VS Code, Visual Studio, IntelliJ</li>
 </ul>
+
  
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
@@ -70,6 +73,18 @@
 </h2>
  
 <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="assets/logos/croixrouge.png" width="70"/>
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <h3 style="margin: 0;">Croix-Rouge (Jan. 2025 – Présent)</h3>
+        <p style="margin: 0; font-weight: bold;">Bénévole</p>
+    </div>
+</div>
+<ul style="margin-top: 10px;">
+    <li>Assistance aux actions humanitaires et sociales</li>
+    <li>Soutien aux personnes en difficulté</li>
+</ul>
+
+<div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/srmsm.png" width="50"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <h3 style="margin: 0;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
@@ -83,31 +98,18 @@
     <li>Développement de modèles prédictifs pour anticiper les conditions de l'eau</li>
     <li>Création de tableaux de bord interactifs pour le suivi des KPI</li>
 </ul>
+
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/croixrouge.png" width="70"/>
+    <img src="assets/logos/dominos.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <h3 style="margin: 0;">Croix-Rouge (Jan. 2025 – Présent)</h3>
-        <p style="margin: 0; font-weight: bold;">Bénévole</p>
+        <h3 style="margin: 0;">Domino’s Pizza (Juin 2024 – Août 2024)</h3>
+        <p style="margin: 0; font-weight: bold;">Livreur Polyvalent</p>
     </div>
 </div>
 <ul style="margin-top: 10px;">
-    <li>Assistance aux actions humanitaires et sociales</li>
-    <li>Soutien aux personnes en difficulté</li>
+    <li>Préparation et livraison de pizzas</li>
+    <li>Gestion des commandes et relation client</li>
 </ul>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/clubalmaarifa.png" width="70"/>
-    <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <h3 style="margin: 0;">Club Al Maarifa (Sep. 2020 – Jui. 2022)</h3>
-        <p style="margin: 0; font-weight: bold;">Bénévole</p>
-    </div>
-</div>
-<ul style="margin-top: 10px;">
-    <li>Assistance aux actions humanitaires et sociales</li>
-    <li>Soutien aux personnes en difficulté</li>
-</ul>
-
-
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/flunch.png" width="70"/>
@@ -122,15 +124,15 @@
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/dominos.png" width="70"/>
+    <img src="assets/logos/clubalmaarifa.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <h3 style="margin: 0;">Domino’s Pizza (Juin 2024 – Août 2024)</h3>
-        <p style="margin: 0; font-weight: bold;">Livreur Polyvalent</p>
+        <h3 style="margin: 0;">Club Al Maarifa (Sep. 2020 – Jui. 2022)</h3>
+        <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
 </div>
 <ul style="margin-top: 10px;">
-    <li>Préparation et livraison de pizzas</li>
-    <li>Gestion des commandes et relation client</li>
+    <li>Assistance aux actions humanitaires et sociales</li>
+    <li>Soutien aux personnes en difficulté</li>
 </ul>
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
