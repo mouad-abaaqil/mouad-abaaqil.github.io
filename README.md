@@ -165,7 +165,7 @@
     <img src="assets/logos/abq_banking.png" width="110"/>
         <h3 style="margin: 0;">Plateforme de Gestion d’Actifs Financiers</h3>
     </div>
-    <a href="https://github.com/mouad-abaaqil/abq_banking" target="_blank" 
+    <a href="https://github.com/mouad-abaaqil/ABQ-Banking" target="_blank" 
        style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
         <i class="fab fa-github"></i> Repo
     </a>
