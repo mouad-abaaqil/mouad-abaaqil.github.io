@@ -181,6 +181,22 @@
     📜 Certifications & Réalisations
 </h2>
 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/ibm.png" width="50"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Python for Data Science, AI & Development</h3>
+            <p style="margin: 0; font-weight: bold;">IBM</p>
+        </div>
+    </div>
+    <a href="https://www.coursera.org/verify/Y6TEZ5Y7JTL2" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+
+
 <ul style="list-style: none; padding: 0; margin: 0;">
     <li>
         <a href="https://www.coursera.org/verify/Y6TEZ5Y7JTL2" target="_blank" style="text-decoration: none; color: #0366d6;">
