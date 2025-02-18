@@ -21,10 +21,11 @@
     <div class="wrapper">
       <header>
         <h1 style="text-align: center; font-family: 'Roboto Slab', serif; color: black; font-size: 38px; font-weight: 700; letter-spacing: 1px; margin-top: 20px;">
-            <a href="{{ "/" | absolute_url }}" style="text-decoration: none; color: black;">
-                {{ site.title | default: site.github.repository_name }}
-            </a>
+          <a href="{{ "/" | absolute_url }}" style="text-decoration: none; color: black; white-space: nowrap;">
+              {{ site.title | default: site.github.repository_name }}
+          </a>
         </h1>
+      
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
