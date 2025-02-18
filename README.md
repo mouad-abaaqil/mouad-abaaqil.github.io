@@ -45,11 +45,12 @@
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">Groupe Scolaire Al Hanane IV (2021 – 2022)</h3>
             <p style="margin: 0; font-weight: bold;">Baccalauréat Option Sciences Mathématiques B</p>
+            <p style="margin: 0; font-weight: bold; color: #28a745;">🎖️ Mention Très Bien</p>
         </div>
     </div>
     <a href="{{ '/assets/docs/ATTESTATION DU BACCALAURÉAT.pdf' | relative_url }}" download
-       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-        🎓 Télécharger le Diplôme
+       style="display: inline-block; text-decoration: none; background: #007bff; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-graduation-cap"></i> Attestation de Réussite
     </a>
 </div>
 
