@@ -114,22 +114,23 @@
     <li>Sécurisation avec authentification à deux facteurs (2FA)</li>
 </ul>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/tiltalert.png" width="110"/>
-    <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
+    <img src="assets/logos/tiltalert.png" width="120"/>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <h3 style="margin: 0;">Système de Protection des Colis</h3>
+        <a href="https://github.com/mouad-abaaqil/tiltalert" target="_blank" 
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 10px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+            <i class="fab fa-github"></i> Repo
+        </a>
+    </div>
 </div>
 
 <ul style="margin-top: 10px;">
     <li>Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis</li>
     <li>Programmation d’un système d’alerte basé sur Arduino</li>
     <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
-</ul> 
+</ul>
 
-<!-- GitHub Repository Button -->
-<a href="https://github.com/mouad-abaaqil/tiltalert" target="_blank" 
-   style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 14px; font-weight: bold; border-radius: 5px; margin-top: 10px; text-align: center;">
-    <i class="fab fa-github"></i> Voir le Repository
-</a>
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/abq_banking.png" width="110"/>
