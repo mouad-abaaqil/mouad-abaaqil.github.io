@@ -125,6 +125,12 @@
     <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
 </ul> 
 
+<!-- GitHub Repository Button -->
+<a href="https://github.com/mouad-abaaqil/tiltalert" target="_blank" 
+   style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 14px; font-weight: bold; border-radius: 5px; margin-top: 10px; text-align: center;">
+    <i class="fab fa-github"></i> Voir le Repository
+</a>
+
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/abq_banking.png" width="110"/>
     <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
