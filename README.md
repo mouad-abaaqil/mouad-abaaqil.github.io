@@ -90,15 +90,15 @@
     📌 Projets
 </h2>
  
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
-    <img src="assets/logos/inoxtrade.png" width="120"/>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/inoxtrade.png" width="120"/>
         <h3 style="margin: 0;">Plateforme de Trading Algorithmique</h3>
-        <a href="https://github.com/mouad-abaaqil/inoxtrade" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 10px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-            <i class="fab fa-github"></i> Repo
-        </a>
     </div>
+    <a href="https://github.com/mouad-abaaqil/inoxtrade" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fab fa-github"></i> Repo
+    </a>
 </div>
 
 <ul style="margin-top: 10px;">
@@ -108,15 +108,15 @@
     <li>🔗 [GitHub Repository](https://github.com/mouad-abaaqil)</li>
 </ul>  
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
-    <img src="assets/logos/dirhami.png" width="110"/>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/dirhami.png" width="110"/>
         <h3 style="margin: 0;">Application de Suivi des Finances Personnelles</h3>
-        <a href="https://github.com/mouad-abaaqil/dirhami" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 10px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-            <i class="fab fa-github"></i> Repo
-        </a>
     </div>
+    <a href="https://github.com/mouad-abaaqil/dirhami" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fab fa-github"></i> Repo
+    </a>
 </div>
 
 <ul style="margin-top: 10px;">
@@ -143,17 +143,15 @@
     <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
 </ul>
 
-
-
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
-    <img src="assets/logos/abq_banking.png" width="110"/>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="assets/logos/abq_banking.png" width="110"/>
         <h3 style="margin: 0;">Plateforme de Gestion d’Actifs Financiers</h3>
-        <a href="https://github.com/mouad-abaaqil/abq_banking" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 10px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-            <i class="fab fa-github"></i> Repo
-        </a>
     </div>
+    <a href="https://github.com/mouad-abaaqil/abq_banking" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fab fa-github"></i> Repo
+    </a>
 </div>
 
 <ul style="margin-top: 10px;">
