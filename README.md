@@ -63,7 +63,7 @@
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/flunch.png" width="50"/>
+    <img src="assets/logos/flunch.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <h3 style="margin: 0;">Flunch (Décembre 2022 – Avril 2023)</h3>
         <p style="margin: 0; font-weight: bold;">Equipier Polyvalent</p>
@@ -75,7 +75,7 @@
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/dominos.png" width="50"/>
+    <img src="assets/logos/dominos.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <h3 style="margin: 0;">Domino’s Pizza (Juin 2024 – Août 2024)</h3>
         <p style="margin: 0; font-weight: bold;">Livreur Polyvalent</p>
@@ -115,7 +115,7 @@
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/tiltalert.png" width="120"/>
+    <img src="assets/logos/tiltalert.png" width="110"/>
     <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
 </div>
 
@@ -126,7 +126,7 @@
 </ul> 
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/abq_banking.png" width="120"/>
+    <img src="assets/logos/abq_banking.png" width="110"/>
     <h3 style="margin: 0; align-self: center;">Système de Protection des Colis</h3>
 </div>
 <ul style="margin-top: 10px;">
