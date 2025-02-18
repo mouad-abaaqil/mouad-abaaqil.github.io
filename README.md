@@ -2,13 +2,14 @@
     🔧 Compétences Techniques
 </h2>
 
-**Programmation :** Python, C, SQL, PHP, Java  
-**Visualisation de Données :** Power BI, Tableau  
+**Programmation :** Python, C, R, SQL, PHP, Java  
+**Visualisation de Données :** Power BI
 **Bases de Données :** MySQL, PostgreSQL  
 **Technologies Web :** HTML, CSS, JavaScript  
 **Gestion de Projet :** Jira, Confluence  
 **Contrôle de Version :** Git  
-**Modélisation & Conception :** UML, Merise  
+**Modélisation & Conception :** UML, Merise 
+**Systèmes d'exploitations :** Windows, Linux  
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎓 Formation
@@ -102,9 +103,10 @@
 </div>
 
 <ul style="margin-top: 10px;">
-    <li>Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis</li>
-    <li>Programmation d’un système d’alerte basé sur Arduino</li>
-    <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
+    <li>Conçu une plateforme pour le trading algorithmique.
+    <li>Développé un bot avec gestion avancée des risques.</li>
+    <li>Créé un tableau de bord pour surveiller les stratégies.</li>
+    <li>Optimisé les stratégies via du backtesting sur données réelles.</li>
 </ul>  
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
@@ -140,6 +142,7 @@
     <li>Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis</li>
     <li>Programmation d’un système d’alerte basé sur Arduino</li>
     <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
+    <li>Démontré des compétences en électronique et prototypage matériel</li>
 </ul>
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
@@ -178,17 +181,6 @@
 - 🇫🇷 **Français** – Avancé
 - 🇬🇧 **Anglais** – Courant
 - 🇪🇸 **Espagnol** – Élémentaire
-
-
-
-<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
-    🎤 Conférences & Contributions
-</h2>
-<ul style="margin-top: 10px;">
-    <li>Conférencier invité : Machine Learning & Data Science</li>
-    <li>Contributeur à des blogs et recherches en Data Science</li>
-    <li>Actif dans des projets open-source en Data Science</li>
-</ul>
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🎯 Centres d’Intérêt
