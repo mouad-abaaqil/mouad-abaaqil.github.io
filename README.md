@@ -31,13 +31,22 @@
 </h2>
 
 
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
-    <img src="assets/logos/eilco.png" width="85"/>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <h3 style="margin: 0;">EIL Côte d’Opale (2022 – 2027)</h3>
-        <p style="margin: 0; font-weight: bold;">École d’ingénieur en Informatique</p>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/eilco.png" width="85"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">EIL Côte d’Opale (2022 – 2027)</h3>
+            <p style="margin: 0; font-weight: bold;">École d’ingénieur en Informatique</p>
+            <p style="margin: 0; font-weight: bold; color: #28a745;">🎓 Diplôme en cours d'obtention</p>
+        </div>
     </div>
+    <a href="{{ '/assets/docs/DOSSIER ACADEMIQUE EILCO.pdf' | relative_url }}" download
+       style="display: inline-block; text-decoration: none; background: #007bff; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-graduation-cap"></i>
+    </a>
 </div>
+
+
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
