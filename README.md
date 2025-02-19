@@ -112,9 +112,14 @@
         <p style="margin: 0; font-weight: bold;">Livreur Polyvalent</p>
     </div>
 </div>
+<p style="margin-top: 10px;">
+    Expérience en préparation et livraison de commandes, assurant un service client optimal dans un environnement dynamique.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Préparation et livraison de pizzas</li>
-    <li>Gestion des commandes et relation client</li>
+    <li><strong>Préparé</strong> les commandes en respectant les normes de qualité.</li>
+    <li><strong>Géré</strong> les livraisons à domicile pour un service client optimal.</li>
+    <li><strong>Collaboré</strong> efficacement en équipe pour maintenir un flux de travail performant.</li>
+    <li><strong>Géré</strong> le stress et respecté les délais dans un environnement exigeant.</li>
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -124,9 +129,14 @@
         <p style="margin: 0; font-weight: bold;">Equipier Polyvalent</p>
     </div>
 </div>
+<p style="margin-top: 10px;">
+    Expérience en restauration rapide assurant un service client de qualité et une gestion efficace des opérations en salle.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Service client et gestion des commandes</li>
-    <li>Maintien de l’hygiène et de l’organisation de l’espace de travail</li>
+    <li><strong>Assuré</strong> le service en salle et la préparation des commandes avec soin.</li>
+    <li><strong>Géré</strong> les encaissements et la caisse avec précision et organisation.</li>
+    <li><strong>Maintenu</strong> l’hygiène et l’organisation de l’espace de travail.</li>
+    <li><strong>Offert</strong> un accueil chaleureux pour garantir la satisfaction client.</li>
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -136,9 +146,13 @@
         <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
 </div>
+<p style="margin-top: 10px;">
+    Engagement communautaire fort avec coordination d’équipe pour soutenir des actions humanitaires et organiser des événements.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Assistance aux actions humanitaires et sociales</li>
-    <li>Soutien aux personnes en difficulté</li>
+    <li><strong>Coordonné</strong> des initiatives d’aide alimentaire, collecte de fonds et organisation d’événements.</li>
+    <li><strong>Collecté</strong> plus de <strong>10 000 DHS</strong> en organisant une journée cinéma avec des offres marketing stratégiques.</li>
+    <li><strong>Optimisé</strong> les coûts et renforcé la cohésion d’équipe pour atteindre des objectifs communs.</li>
 </ul>
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
