@@ -145,7 +145,7 @@
         <h3 style="margin: 0;">Club Al Maarifa (Sep. 2020 – Jui. 2022)</h3>
         <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
-
+</div>
 <p style="margin-top: 10px;">
     Engagement communautaire fort avec coordination d’équipe pour soutenir des actions humanitaires et organiser des événements.
 </p>
@@ -154,7 +154,7 @@
     <li><strong>Collecté</strong> plus de <strong>10 000 DHS</strong> en organisant une journée cinéma avec des offres marketing stratégiques.</li>
     <li><strong>Optimisé</strong> les coûts et renforcé la cohésion d’équipe pour atteindre des objectifs communs.</li>
 </ul>
-</div>
+
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     📌 Projets
 </h2>
