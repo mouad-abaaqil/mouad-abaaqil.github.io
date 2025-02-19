@@ -71,7 +71,6 @@
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     💼 Expériences Professionnelles
 </h2>
- 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/croixrouge.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -80,9 +79,11 @@
     </div>
 </div>
 <ul style="margin-top: 10px;">
-    <li>Assistance aux actions humanitaires et sociales</li>
-    <li>Soutien aux personnes en difficulté</li>
+    <li><strong>Conçu</strong> et déployé un système de collecte en partenariat avec des points relais stratégiques.</li>
+    <li><strong>Exploité</strong> les données de collecte via un dashboard interactif (<strong>Power BI</strong>) et une modélisation prédictive (<strong>Python</strong>) pour anticiper les besoins.</li>
+    <li><strong>Renforcé</strong> l’engagement communautaire et optimisé la redistribution pour maximiser l’impact social.</li>
 </ul>
+
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/srmsm.png" width="50"/>
