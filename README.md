@@ -10,7 +10,7 @@
     <li>📝 <strong>Bureautique :</strong> Word, Excel, PowerPoint</li>
     <li>📐 <strong>Modélisation & Conception :</strong> UML, Merise</li>
     <li>🖥️ <strong>Systèmes d'exploitation :</strong> Windows, Linux</li>
-    <li>📚 <strong>Librairies Data Science :</strong> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
+    <li>📚 <strong>Librairies :</strong> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
     <li>🛠️ <strong>Outils de Développement :</strong> Git, VS Code, Visual Studio, IntelliJ</li>
 </ul>
 
