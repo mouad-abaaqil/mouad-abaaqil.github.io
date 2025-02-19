@@ -81,7 +81,7 @@
 <p style="margin-top: 10px;">
     Projet solidaire visant à optimiser la collecte et la redistribution des vêtements grâce à une approche data-driven pour maximiser l’impact social.
 </p>
-<ul>
+<ul style="margin-top: 0px;">
     <li><strong>Conçu</strong> et déployé un système de collecte en partenariat avec des points relais stratégiques.</li>
     <li><strong>Exploité</strong> les données de collecte via un dashboard interactif (<strong>Power BI</strong>) et une modélisation prédictive (<strong>Python</strong>) afin d’anticiper les besoins.</li>
     <li><strong>Renforcé</strong> l’engagement communautaire et optimisé la redistribution pour maximiser l’impact social.</li>
@@ -99,7 +99,7 @@
 <p style="margin-top: 10px;">
     Stage axé sur l’optimisation de la qualité de l’eau grâce à l’intégration de capteurs IoT et l’analyse prédictive.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Collecté</strong> des données en continu (pH, salinité, turbidité) via des <strong>capteurs IoT</strong> sur le réseau de distribution.</li>
     <li><strong>Intégré</strong> et analysé les données en temps réel avec <strong>Python</strong> et des <strong>modèles prédictifs</strong> pour anticiper les fluctuations de qualité.</li>
     <li><strong>Développé</strong> un dashboard interactif (<strong>Power BI</strong>) pour visualiser les tendances et déclencher des alertes en cas d’anomalies.</li>
@@ -115,7 +115,7 @@
 <p style="margin-top: 10px;">
     Expérience en préparation et livraison de commandes, assurant un service client optimal dans un environnement dynamique.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Préparé</strong> les commandes en respectant les normes de qualité.</li>
     <li><strong>Géré</strong> les livraisons à domicile pour un service client optimal.</li>
     <li><strong>Collaboré</strong> efficacement en équipe pour maintenir un flux de travail performant.</li>
@@ -132,7 +132,7 @@
 <p style="margin-top: 10px;">
     Expérience en restauration rapide assurant un service client de qualité et une gestion efficace des opérations en salle.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Assuré</strong> le service en salle et la préparation des commandes avec soin.</li>
     <li><strong>Géré</strong> les encaissements et la caisse avec précision et organisation.</li>
     <li><strong>Maintenu</strong> l’hygiène et l’organisation de l’espace de travail.</li>
@@ -149,7 +149,7 @@
 <p style="margin-top: 10px;">
     Engagement communautaire fort avec coordination d’équipe pour soutenir des actions humanitaires et organiser des événements.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Coordonné</strong> des initiatives d’aide alimentaire, collecte de fonds et organisation d’événements.</li>
     <li><strong>Collecté</strong> plus de <strong>10 000 DHS</strong> en organisant une journée cinéma avec des offres marketing stratégiques.</li>
     <li><strong>Optimisé</strong> les coûts et renforcé la cohésion d’équipe pour atteindre des objectifs communs.</li>
@@ -172,7 +172,7 @@
 <p style="margin-top: 10px;">
     Projet visant à automatiser l’exécution des ordres et optimiser la gestion des risques via une plateforme de trading avancée.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Conçu</strong> une plateforme sur <strong>MetaTrader 5</strong> pour exécuter les ordres et calculer dynamiquement les <strong>tailles de lots</strong>.</li>
     <li><strong>Implémenté</strong> des stratégies basées sur l’<strong>analyse technique</strong> et <strong>Smart Money Concepts</strong>, avec backtesting via <strong>Yahoo Finance</strong>.</li>
     <li><strong>Créé</strong> un dashboard interactif sur <strong>Power BI</strong> pour visualiser <strong>trades</strong>, <strong>profits</strong> et <strong>taux de réussite</strong>.</li>
@@ -191,7 +191,7 @@
 <p style="margin-top: 10px;">
     Application web pour automatiser la gestion financière et la catégorisation des dépenses grâce à l’IA.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Développé</strong> une application reliant <strong>API bancaires</strong>, <strong>OCR</strong> et <strong>IA</strong> pour catégoriser les dépenses.</li>
     <li><strong>Automatisé</strong> l’extraction et l’analyse des transactions via l’<strong>API OpenAI</strong>.</li>
     <li><strong>Implémenté</strong> un système d’envoi d’e-mails via <strong>SMTP</strong> pour valider les inscriptions (lien de confirmation).</li>
@@ -211,7 +211,7 @@
 <p style="margin-top: 10px;">
     TiltAlert est un dispositif Arduino de détection de chocs et d’inclinaisons, déclenchant des alertes visuelles et sonores pour sécuriser colis et équipements sensibles.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Conçu</strong> un système de détection basé sur Arduino et un capteur KY-020 pour surveiller l’inclinaison.</li>
     <li><strong>Programmé</strong> des alertes via buzzer et LED pour signaler des chocs critiques.</li>
     <li><strong>Implémenté</strong> une réinitialisation facile avec un bouton poussoir.</li>
@@ -232,7 +232,7 @@
 <p style="margin-top: 10px;">
     Plateforme de gestion de portefeuille intégrant des technologies avancées pour optimiser les investissements.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 0px;">
     <li><strong>Développé</strong> une solution de gestion de portefeuille d’investissement sous <strong>Python</strong> et <strong>PostgreSQL</strong>.</li>
     <li><strong>Intégré</strong> des tableaux de bord interactifs en temps réel avec <strong>Power BI</strong>.</li>
     <li><strong>Connecté</strong> une base de données <strong>PostgreSQL</strong> pour une mise à jour dynamique des actifs.</li>
