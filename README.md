@@ -11,7 +11,7 @@
     <li>📐 <strong>Modélisation & Conception :</strong> UML, Merise</li>
     <li>🖥️ <strong>Systèmes d'exploitation :</strong> Windows, Linux</li>
     <li>📚 <strong>Librairies :</strong> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
-    <li>🛠️ <strong>Outils de Développement :</strong> Git, VS Code, Visual Studio, IntelliJ</li>
+    <li>🛠️ <strong>Outils de Développement :</strong> Git, VS Code, PyCharm, IntelliJ</li>
 </ul>
 
  
@@ -21,11 +21,11 @@
 </h2>
 <ul style="list-style: none; padding: 0; margin: 0;">
     <li>✅ Travail en équipe</li>
-    <li>🎯 Résolution de problèmes</li>
+    <li>🎯 Résolution de problèmes complexes</li>
     <li>💡 Créativité et innovation</li>
-    <li>🗣️ Communication efficace</li>
+    <li>🗣️ Communication claire et efficace</li>
     <li>⏳ Gestion du temps et priorisation</li>
-    <li>📊 Esprit analytique</li>
+    <li>📊 Esprit analytique et critique</li>
 </ul>
 
 
