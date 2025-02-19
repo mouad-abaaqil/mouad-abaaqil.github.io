@@ -78,11 +78,15 @@
         <p style="margin: 0; font-weight: bold;">Bénévole</p>
     </div>
 </div>
+<p style="margin-top: 10px;">
+    Projet solidaire visant à optimiser la collecte et la redistribution des vêtements grâce à une approche data-driven pour maximiser l’impact social.
+</p>
 <ul style="margin-top: 10px;">
     <li><strong>Conçu</strong> et déployé un système de collecte en partenariat avec des points relais stratégiques.</li>
-    <li><strong>Exploité</strong> les données de collecte via un dashboard interactif (<strong>Power BI</strong>) et une modélisation prédictive (<strong>Python</strong>) pour anticiper les besoins.</li>
+    <li><strong>Exploité</strong> les données de collecte via un dashboard interactif (<strong>Power BI</strong>) et une modélisation prédictive (<strong>Python</strong>) afin d’anticiper les besoins.</li>
     <li><strong>Renforcé</strong> l’engagement communautaire et optimisé la redistribution pour maximiser l’impact social.</li>
 </ul>
+
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
