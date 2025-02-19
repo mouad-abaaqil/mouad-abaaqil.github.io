@@ -81,7 +81,7 @@
 <p style="margin-top: 10px;">
     Projet solidaire visant à optimiser la collecte et la redistribution des vêtements grâce à une approche data-driven pour maximiser l’impact social.
 </p>
-<ul style="margin-top: 10px;">
+<ul style="margin-top: 5px;">
     <li><strong>Conçu</strong> et déployé un système de collecte en partenariat avec des points relais stratégiques.</li>
     <li><strong>Exploité</strong> les données de collecte via un dashboard interactif (<strong>Power BI</strong>) et une modélisation prédictive (<strong>Python</strong>) afin d’anticiper les besoins.</li>
     <li><strong>Renforcé</strong> l’engagement communautaire et optimisé la redistribution pour maximiser l’impact social.</li>
@@ -96,12 +96,13 @@
         <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
     </div>
 </div>
-
+<p style="margin-top: 10px;">
+    Stage axé sur l’optimisation de la qualité de l’eau grâce à l’intégration de capteurs IoT et l’analyse prédictive.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Prétraitement et analyse des données sur la qualité de l'eau</li>
-    <li>Identification des facteurs clés influençant la qualité de l'eau</li>
-    <li>Développement de modèles prédictifs pour anticiper les conditions de l'eau</li>
-    <li>Création de tableaux de bord interactifs pour le suivi des KPI</li>
+    <li><strong>Collecté</strong> des données en continu (pH, salinité, turbidité) via des <strong>capteurs IoT</strong> sur le réseau de distribution.</li>
+    <li><strong>Intégré</strong> et analysé les données en temps réel avec <strong>Python</strong> et des <strong>modèles prédictifs</strong> pour anticiper les fluctuations de qualité.</li>
+    <li><strong>Développé</strong> un dashboard interactif (<strong>Power BI</strong>) pour visualiser les tendances et déclencher des alertes en cas d’anomalies.</li>
 </ul>
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -154,13 +155,14 @@
         <i class="fab fa-github"></i> Repo
     </a>
 </div>
-
+<p style="margin-top: 10px;">
+    Projet visant à automatiser l’exécution des ordres et optimiser la gestion des risques via une plateforme de trading avancée.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Conçu une plateforme pour le trading algorithmique.</li>
-    <li>Développé un bot avec gestion avancée des risques.</li>
-    <li>Créé un tableau de bord pour surveiller les stratégies.</li>
-    <li>Optimisé les stratégies via du backtesting sur données réelles.</li>
-</ul>  
+    <li><strong>Conçu</strong> une plateforme sur <strong>MetaTrader 5</strong> pour exécuter les ordres et calculer dynamiquement les <strong>tailles de lots</strong>.</li>
+    <li><strong>Implémenté</strong> des stratégies basées sur l’<strong>analyse technique</strong> et <strong>Smart Money Concepts</strong>, avec backtesting via <strong>Yahoo Finance</strong>.</li>
+    <li><strong>Créé</strong> un dashboard interactif sur <strong>Power BI</strong> pour visualiser <strong>trades</strong>, <strong>profits</strong> et <strong>taux de réussite</strong>.</li>
+</ul>
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
@@ -172,13 +174,15 @@
         <i class="fab fa-github"></i> Repo
     </a>
 </div>
-
+<p style="margin-top: 10px;">
+    Application web pour automatiser la gestion financière et la catégorisation des dépenses grâce à l’IA.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Développement d'une application web pour la catégorisation des dépenses</li>
-    <li>Intégration d'API bancaires et OCR pour l'analyse des reçus</li>
-    <li>Implémentation d’une classification des transactions basée sur l’IA</li>
-    <li>Sécurisation avec authentification à deux facteurs (2FA)</li>
+    <li><strong>Développé</strong> une application reliant <strong>API bancaires</strong>, <strong>OCR</strong> et <strong>IA</strong> pour catégoriser les dépenses.</li>
+    <li><strong>Automatisé</strong> l’extraction et l’analyse des transactions via l’<strong>API OpenAI</strong>.</li>
+    <li><strong>Implémenté</strong> un système d’envoi d’e-mails via <strong>SMTP</strong> pour valider les inscriptions (lien de confirmation).</li>
 </ul>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
@@ -200,7 +204,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/abq_banking.png" width="110"/>
+        <img src="assets/logos/abq_banking.png" width="110"/>
         <h3 style="margin: 0;">Plateforme de Gestion d’Actifs Financiers</h3>
     </div>
     <a href="https://github.com/mouad-abaaqil/ABQ-Banking" target="_blank" 
@@ -208,13 +212,16 @@
         <i class="fab fa-github"></i> Repo
     </a>
 </div>
-
+<p style="margin-top: 10px;">
+    Plateforme de gestion de portefeuille intégrant des technologies avancées pour optimiser les investissements.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Développement d'une plateforme de gestion de portefeuille d’investissement</li>
-    <li>Intégration de Power BI pour des tableaux de bord interactifs en temps réel</li>
-    <li>Connexion à une base de données PostgreSQL pour mise à jour dynamique des actifs</li>
-    <li>Analyse des risques et recommandations basées sur l'IA pour optimiser les investissements</li>
-</ul> 
+    <li><strong>Développé</strong> une solution de gestion de portefeuille d’investissement sous <strong>Python</strong> et <strong>PostgreSQL</strong>.</li>
+    <li><strong>Intégré</strong> des tableaux de bord interactifs en temps réel avec <strong>Power BI</strong>.</li>
+    <li><strong>Connecté</strong> une base de données <strong>PostgreSQL</strong> pour une mise à jour dynamique des actifs.</li>
+    <li><strong>Analysé</strong> les risques et formulé des recommandations basées sur l’<strong>IA</strong> pour optimiser les investissements.</li>
+</ul>
+
 
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
