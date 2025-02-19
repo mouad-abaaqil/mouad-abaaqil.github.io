@@ -194,13 +194,16 @@
         <i class="fab fa-github"></i> Repo
     </a>
 </div>
-
+<p style="margin-top: 10px;">
+    TiltAlert est un dispositif Arduino de détection de chocs et d’inclinaisons, déclenchant des alertes visuelles et sonores pour sécuriser colis et équipements sensibles.
+</p>
 <ul style="margin-top: 10px;">
-    <li>Conception d'un détecteur de choc et d'inclinaison pour la sécurité des colis</li>
-    <li>Programmation d’un système d’alerte basé sur Arduino</li>
-    <li>Intégration d’alarmes visuelles et sonores pour détecter les impacts</li>
-    <li>Démontré des compétences en électronique et prototypage matériel</li>
+    <li><strong>Conçu</strong> un système de détection basé sur Arduino et un capteur KY-020 pour surveiller l’inclinaison.</li>
+    <li><strong>Programmé</strong> des alertes via buzzer et LED pour signaler des chocs critiques.</li>
+    <li><strong>Implémenté</strong> une réinitialisation facile avec un bouton poussoir.</li>
+    <li><strong>Démontré</strong> des compétences en électronique et prototypage matériel.</li>
 </ul>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
