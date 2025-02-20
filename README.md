@@ -73,25 +73,26 @@
 </h2>
 
 <!-- Croix-Rouge -->
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px; flex: 1;">
         <img src="assets/logos/croixrouge.png" width="70"/>
-        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 70%;">
             <h3 style="margin: 0;">Croix-Rouge (Jan. 2025 – Présent)</h3>
             <p style="margin: 0; font-weight: bold;">Bénévole</p>
         </div>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; width: 50px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; min-width: 120px;">
         <a href="https://github.com/mouad-abaaqil/Croix-Rouge" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 120px;">
             <i class="fab fa-github"></i> Repo
         </a>
         <a href="assets/docs/croix-rouge-report.pdf" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
+           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 120px;">
             <i class="fas fa-file-alt"></i> Doc
         </a>
     </div>
 </div>
+
 
 <p style="margin-top: 10px;">
     Projet solidaire visant à optimiser la collecte et la redistribution des vêtements grâce à une approche data-driven pour maximiser l’impact social.
@@ -107,7 +108,7 @@
     <div style="display: flex; align-items: center; gap: 10px;">
         <img src="assets/logos/srmsm.png" width="50"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
-            <h3 style="margin: 0;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
+            <h3 style="margin: 0;">SRM Souss Massa (Mar. 2024 – Avr. 2024)</h3>
             <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
         </div>
     </div>
@@ -152,7 +153,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="assets/logos/flunch.png" width="70"/>
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <h3 style="margin: 0;">Flunch (Décembre 2022 – Avril 2023)</h3>
+        <h3 style="margin: 0;">Flunch (Déc. 2022 – Avr. 2023)</h3>
         <p style="margin: 0; font-weight: bold;">Equipier Polyvalent</p>
     </div>
 </div>
