@@ -346,9 +346,12 @@
 
 
 <ul style="list-style: none; padding: 0; margin: 0;">
-    <li><strong>🏅 Participation à Kaggle Competitions</strong></li>
-    <li><strong>🥇 Lauréat d’un hackathon Data Science</strong></li>
+    <li><strong>🤖 1ʳᵉ place - Compétition Arduino Robot Racing</strong></li>
+    <li><strong>🎬 Meilleur film - Festival audiovisuel de l'EILCO</strong></li>
+    <li><strong>🚑 Citoyen Sauveteur - Formation PSC1 (Croix-Rouge)</strong></li>
+    <li><strong>📊 Développement d’une solution data-driven pour optimiser la collecte des dons (Croix-Rouge)</strong></li>
 </ul>
+
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     🌍 Langues Parlées
