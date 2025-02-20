@@ -83,11 +83,11 @@
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; min-width: 120px;">
         <a href="https://github.com/mouad-abaaqil/Croix-Rouge" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 120px;">
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 50px;">
             <i class="fab fa-github"></i> Repo
         </a>
         <a href="assets/docs/croix-rouge-report.pdf" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 120px;">
+           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 50px;">
             <i class="fas fa-file-alt"></i> Doc
         </a>
     </div>
@@ -104,25 +104,26 @@
 </ul>
 
 <!-- SRM Souss Massa -->
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px; flex: 1;">
         <img src="assets/logos/srmsm.png" width="50"/>
-        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 70%;">
             <h3 style="margin: 0;">SRM Souss Massa (Mar. 2024 – Avr. 2024)</h3>
             <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
         </div>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; width: 50px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; min-width: 120px;">
         <a href="https://github.com/mouad-abaaqil/WaterQualityProject" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 50px;">
             <i class="fab fa-github"></i> Repo
         </a>
         <a href="assets/docs/srm-report.pdf" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
+           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 50px;">
             <i class="fas fa-file-alt"></i> Doc
         </a>
     </div>
 </div>
+
 
 <p style="margin-top: 10px;">
     Stage axé sur l’optimisation de la qualité de l’eau grâce à l’intégration de capteurs IoT et l’analyse prédictive.
