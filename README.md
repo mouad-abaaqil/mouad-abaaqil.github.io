@@ -81,13 +81,13 @@
             <p style="margin: 0; font-weight: bold;">Bénévole</p>
         </div>
     </div>
-    <div style="display: flex; gap: 10px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px;">
         <a href="https://github.com/mouad-abaaqil/croix-rouge-project" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
             <i class="fab fa-github"></i> Repo
         </a>
         <a href="assets/docs/croix-rouge-report.pdf" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
             <i class="fas fa-file-alt"></i> Rapport
         </a>
     </div>
@@ -111,13 +111,13 @@
             <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
         </div>
     </div>
-    <div style="display: flex; gap: 10px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px;">
         <a href="https://github.com/mouad-abaaqil/srm-project" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
             <i class="fab fa-github"></i> Repo
         </a>
         <a href="assets/docs/srm-report.pdf" target="_blank" 
-           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
             <i class="fas fa-file-alt"></i> Rapport
         </a>
     </div>
