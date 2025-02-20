@@ -71,13 +71,28 @@
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
     💼 Expériences Professionnelles
 </h2>
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/croixrouge.png" width="70"/>
-    <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <h3 style="margin: 0;">Croix-Rouge (Jan. 2025 – Présent)</h3>
-        <p style="margin: 0; font-weight: bold;">Bénévole</p>
+
+<!-- Croix-Rouge -->
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/croixrouge.png" width="70"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Croix-Rouge (Jan. 2025 – Présent)</h3>
+            <p style="margin: 0; font-weight: bold;">Bénévole</p>
+        </div>
+    </div>
+    <div style="display: flex; gap: 10px;">
+        <a href="https://github.com/mouad-abaaqil/croix-rouge-project" target="_blank" 
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+            <i class="fab fa-github"></i> Repo
+        </a>
+        <a href="assets/docs/croix-rouge-report.pdf" target="_blank" 
+           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+            <i class="fas fa-file-alt"></i> Rapport
+        </a>
     </div>
 </div>
+
 <p style="margin-top: 10px;">
     Projet solidaire visant à optimiser la collecte et la redistribution des vêtements grâce à une approche data-driven pour maximiser l’impact social.
 </p>
@@ -87,15 +102,27 @@
     <li><strong>Renforcé</strong> l’engagement communautaire et optimisé la redistribution pour maximiser l’impact social.</li>
 </ul>
 
-
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logos/srmsm.png" width="50"/>
-    <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <h3 style="margin: 0;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
-        <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
+<!-- SRM Souss Massa -->
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/srmsm.png" width="50"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">SRM Souss Massa (Mar 2024 – Avr 2024)</h3>
+            <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
+        </div>
+    </div>
+    <div style="display: flex; gap: 10px;">
+        <a href="https://github.com/mouad-abaaqil/srm-project" target="_blank" 
+           style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+            <i class="fab fa-github"></i> Repo
+        </a>
+        <a href="assets/docs/srm-report.pdf" target="_blank" 
+           style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; display: flex; align-items: center; gap: 5px;">
+            <i class="fas fa-file-alt"></i> Rapport
+        </a>
     </div>
 </div>
+
 <p style="margin-top: 10px;">
     Stage axé sur l’optimisation de la qualité de l’eau grâce à l’intégration de capteurs IoT et l’analyse prédictive.
 </p>
