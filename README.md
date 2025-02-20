@@ -76,7 +76,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px; flex: 1;">
         <img src="assets/logos/croixrouge.png" width="70"/>
-        <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 70%;">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 90%;">
             <h3 style="margin: 0;">Croix-Rouge (Jan. 2025 – Présent)</h3>
             <p style="margin: 0; font-weight: bold;">Bénévole</p>
         </div>
@@ -107,7 +107,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px; flex: 1;">
         <img src="assets/logos/srmsm.png" width="50"/>
-        <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 70%;">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 90%;">
             <h3 style="margin: 0;">SRM Souss Massa (Mar. 2024 – Avr. 2024)</h3>
             <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
         </div>
