@@ -81,7 +81,7 @@
             <p style="margin: 0; font-weight: bold;">Bénévole</p>
         </div>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; min-width: 120px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; min-width: 50px;">
         <a href="https://github.com/mouad-abaaqil/Croix-Rouge" target="_blank" 
            style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 50px;">
             <i class="fab fa-github"></i> Repo
@@ -112,7 +112,7 @@
             <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
         </div>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; min-width: 120px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; min-width: 50px;">
         <a href="https://github.com/mouad-abaaqil/WaterQualityProject" target="_blank" 
            style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 50px;">
             <i class="fab fa-github"></i> Repo
