@@ -81,14 +81,14 @@
             <p style="margin: 0; font-weight: bold;">Bénévole</p>
         </div>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; width: 150px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; width: 50px;">
         <a href="https://github.com/mouad-abaaqil/Croix-Rouge" target="_blank" 
            style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
             <i class="fab fa-github"></i> Repo
         </a>
         <a href="assets/docs/croix-rouge-report.pdf" target="_blank" 
            style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
-            <i class="fas fa-file-alt"></i> Rapport
+            <i class="fas fa-file-alt"></i> Doc
         </a>
     </div>
 </div>
@@ -111,14 +111,14 @@
             <p style="margin: 0; font-weight: bold;">Data Scientist Stagiaire</p>
         </div>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; width: 150px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 5px; width: 50px;">
         <a href="https://github.com/mouad-abaaqil/WaterQualityProject" target="_blank" 
            style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
             <i class="fab fa-github"></i> Repo
         </a>
         <a href="assets/docs/srm-report.pdf" target="_blank" 
            style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 8px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; width: 100%;">
-            <i class="fas fa-file-alt"></i> Rapport
+            <i class="fas fa-file-alt"></i> Doc
         </a>
     </div>
 </div>
