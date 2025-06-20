@@ -344,6 +344,19 @@
     </a>
 </div>
 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/croixrouge.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">PSC1 - Prévention et Secours Civiques de niveau 1</h3>
+            <p style="margin: 0; font-weight: bold;">Croix-Rouge</p>
+        </div>
+    </div>
+    <a href="https://drive.google.com/file/d/1fdjOYciIym68RlzuHUN7I8t-hRAKheQI/view?usp=drive_link" target="_blank" style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
 
 <ul style="list-style: none; padding: 0; margin: 0;">
     <li><strong>🤖 1ʳᵉ place - Compétition Arduino Robot Racing</strong></li>
