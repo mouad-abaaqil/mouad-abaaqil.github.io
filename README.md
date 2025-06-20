@@ -267,6 +267,26 @@
     <li><strong>Connecté</strong> une base de données <strong>PostgreSQL</strong> pour une mise à jour dynamique des actifs.</li>
     <li><strong>Analysé</strong> les risques et formulé des recommandations basées sur l’<strong>IA</strong> pour optimiser les investissements.</li>
 </ul>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/redcollectlogo.png" width="110"/>
+        <h3 style="margin: 0;">RedCollect - Solution de Collecte de Dons</h3>
+    </div>
+    <a href="https://github.com/mouad-abaaqil/redcollect" target="_blank"
+       style="display: inline-block; text-decoration: none; background: #0366d6; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fab fa-github"></i> Repo
+    </a>
+</div>
+<p style="margin-top: 10px;">
+    Projet visant à automatiser et optimiser la collecte des dons solidaires pour la Croix-Rouge via une solution numérique innovante.
+</p>
+<ul style="margin-top: 0px;">
+    <li><strong>Développé</strong> un script <strong>Python</strong> pour générer automatiquement des itinéraires optimisés sur <strong>Google Maps</strong> et envoyer des e-mails automatisés aux bénévoles.</li>
+    <li><strong>Mis en place</strong> des <strong>QR codes</strong> et des formulaires Google pour faciliter la communication entre les points relais et la Croix-Rouge.</li>
+    <li><strong>Créé</strong> un dashboard interactif sur <strong>Power BI</strong> pour suivre l’état des relais, les collectes effectuées et les statistiques de dons.</li>
+</ul>
+
+
 
 
 
