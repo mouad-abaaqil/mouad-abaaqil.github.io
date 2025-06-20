@@ -361,7 +361,6 @@
 <ul style="list-style: none; padding: 0; margin: 0;">
     <li><strong>🤖 1ʳᵉ place - Compétition Arduino Robot Racing</strong></li>
     <li><strong>🎬 Meilleur film - Festival audiovisuel de l'EILCO</strong></li>
-    <li><strong>🚑 Citoyen Sauveteur - Formation PSC1 (Croix-Rouge)</strong></li>
     <li><strong>📊 Développement d’une solution data-driven pour optimiser la collecte des dons (Croix-Rouge)</strong></li>
 </ul>
 
