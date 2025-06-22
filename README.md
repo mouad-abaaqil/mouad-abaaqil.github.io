@@ -366,6 +366,36 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/JPMC.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Investment Banking Job Simulation</h3>
+            <p style="margin: 0; font-weight: bold;">JPMorganChase</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_Sw5cBtWbfJzbbFXW6_1750611343799_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/GS.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Operations Job Simulation</h3>
+            <p style="margin: 0; font-weight: bold;">Goldman Sachs</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="assets/logos/croixrouge.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">PSC1 - Prévention et Secours Civiques de niveau 1</h3>
