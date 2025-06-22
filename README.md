@@ -369,7 +369,7 @@
         <img src="assets/logos/JPMC.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3 style="margin: 0;">Investment Banking Job Simulation</h3>
-            <p style="margin: 0; font-weight: bold;">JPMorganChase</p>
+            <p style="margin: 0; font-weight: bold;">JPMorgan Chase</p>
         </div>
     </div>
     <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_Sw5cBtWbfJzbbFXW6_1750611343799_completion_certificate.pdf" target="_blank" 
