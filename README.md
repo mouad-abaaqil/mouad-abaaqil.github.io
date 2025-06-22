@@ -364,35 +364,6 @@
     </a>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="assets/logos/JPMC.png" width="80"/>
-        <div style="display: flex; flex-direction: column; align-items: flex-start;">
-            <h3 style="margin: 0;">Investment Banking Job Simulation</h3>
-            <p style="margin: 0; font-weight: bold;">JPMorgan Chase</p>
-        </div>
-    </div>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_Sw5cBtWbfJzbbFXW6_1750611343799_completion_certificate.pdf" target="_blank" 
-       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-        <i class="fas fa-check-circle"></i> Vérifier
-    </a>
-</div>
-
-
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="assets/logos/GS.png" width="80"/>
-        <div style="display: flex; flex-direction: column; align-items: flex-start;">
-            <h3 style="margin: 0;">Operations Job Simulation</h3>
-            <p style="margin: 0; font-weight: bold;">Goldman Sachs</p>
-        </div>
-    </div>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
-       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-        <i class="fas fa-check-circle"></i> Vérifier
-    </a>
-</div>
-
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
     <div style="display: flex; align-items: center; gap: 10px;">
@@ -426,6 +397,125 @@
 <ul style="list-style: none; padding: 0; margin: 0;">
     <li><strong>🤖 1ʳᵉ place - Compétition Arduino Robot Racing</strong></li>
 </ul>
+
+<h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
+    💼 Simulations professionnelles
+</h2>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/JPMC.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Investment Banking Job Simulation</h3>
+            <p style="margin: 0; font-weight: bold;">JPMorgan Chase</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_Sw5cBtWbfJzbbFXW6_1750611343799_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/GS.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Operations Job Simulation</h3>
+            <p style="margin: 0; font-weight: bold;">Goldman Sachs</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/lloyds_banking_group.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Data Science & Analytics</h3>
+            <p style="margin: 0; font-weight: bold;">Lloyds Banking Group</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_Sw5cBtWbfJzbbFXW6_1750611343799_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/lloyds_banking_group.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Business & Commercial Banking Introduction</h3>
+            <p style="margin: 0; font-weight: bold;">Lloyds Banking Group</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/Citi.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Wealth</h3>
+            <p style="margin: 0; font-weight: bold;">Citi</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/Citi.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Markets Quantitative Analysis (MQA)</h3>
+            <p style="margin: 0; font-weight: bold;">Citi</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/Citi.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Investment Banking</h3>
+            <p style="margin: 0; font-weight: bold;">Citi</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/bank_of_america.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Investment Banking</h3>
+            <p style="margin: 0; font-weight: bold;">Bank of America</p>
+        </div>
+    </div>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-check-circle"></i> Vérifier
+    </a>
+</div>
+
 
 
 <h2 style="font-size: 22px; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
