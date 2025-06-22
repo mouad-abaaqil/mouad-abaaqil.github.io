@@ -4,8 +4,8 @@
 <ul style="list-style: none; padding: 0; margin: 0;">
     <li>💻 <strong>Programmation :</strong> Python, C, R, SQL, PHP, Java</li>
     <li>📊 <strong>Visualisation de Données :</strong> Power BI</li>
-    <li>🗄️ <strong>Bases de Données :</strong> MySQL, PostgreSQL</li>
-    <li>🌐 <strong>Technologies Web :</strong> HTML, CSS, JavaScript</li>
+    <li>🗄️ <strong>Bases de Données :</strong> MySQL, PostgreSQL, MongoDB</li>
+    <li>🌐 <strong>Technologies Web :</strong> HTML, CSS, JavaScript, React, Node.js, Express</li>
     <li>📅 <strong>Gestion de Projet :</strong> Jira, Confluence</li>   
     <li>📝 <strong>Bureautique :</strong> Word, Excel, PowerPoint</li>
     <li>📐 <strong>Modélisation & Conception :</strong> UML, Merise</li>
@@ -416,9 +416,9 @@
             <p style="margin: 0; font-weight: bold;">Réalisé à l’EILCO</p>
         </div>
     </div>
-    <a href="https://drive.google.com/drive/folders/1J5nlJk5UkAn3InDnA-G9tGC4TVKlwUmx" target="_blank" 
+    <a href="https://drive.google.com/file/d/1TGFkUf8Hmh7UbvnZ4zWR_mXSWopBpWwc/view?usp=drive_link" target="_blank" 
        style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
-        <i class="fas fa-play-circle"></i> Voir
+        <i class="fas fa-play-circle"></i> Visionner
     </a>
 </div>
 
