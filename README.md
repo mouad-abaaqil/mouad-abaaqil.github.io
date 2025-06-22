@@ -408,6 +408,21 @@
 </div>
 
 
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; margin-bottom: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="assets/logos/VERTIGE.png" width="80"/>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+            <h3 style="margin: 0;">Lauréat - Meilleur Film</h3>
+            <p style="margin: 0; font-weight: bold;">Réalisé à l’EILCO</p>
+        </div>
+    </div>
+    <a href="https://drive.google.com/drive/folders/1J5nlJk5UkAn3InDnA-G9tGC4TVKlwUmx" target="_blank" 
+       style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
+        <i class="fas fa-play-circle"></i> Voir
+    </a>
+</div>
+
+
 <ul style="list-style: none; padding: 0; margin: 0;">
     <li><strong>🤖 1ʳᵉ place - Compétition Arduino Robot Racing</strong></li>
     <li><strong>🎬 Meilleur film - Festival audiovisuel de l'EILCO</strong></li>
