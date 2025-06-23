@@ -406,7 +406,7 @@
     <div style="display: flex; align-items: center; gap: 10px;">
         <img src="assets/logos/JPMC.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
-            <h3 style="margin: 0;">Investment Banking Job Simulation</h3>
+            <h3 style="margin: 0;">Investment Banking</h3>
             <p style="margin: 0; font-weight: bold;">JPMorgan Chase</p>
         </div>
     </div>
@@ -421,7 +421,7 @@
     <div style="display: flex; align-items: center; gap: 10px;">
         <img src="assets/logos/GS.png" width="80"/>
         <div style="display: flex; flex-direction: column; align-items: flex-start;">
-            <h3 style="margin: 0;">Operations Job Simulation</h3>
+            <h3 style="margin: 0;">Operations</h3>
             <p style="margin: 0; font-weight: bold;">Goldman Sachs</p>
         </div>
     </div>
@@ -439,7 +439,7 @@
             <p style="margin: 0; font-weight: bold;">Lloyds Banking Group</p>
         </div>
     </div>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_Sw5cBtWbfJzbbFXW6_1750611343799_completion_certificate.pdf" target="_blank" 
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Zbnc2o4ok6kD2NEXx/EuvC8GPjkZ6xaiP9p_Zbnc2o4ok6kD2NEXx_Sw5cBtWbfJzbbFXW6_1750704352820_completion_certificate.pdf" target="_blank" 
        style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
         <i class="fas fa-check-circle"></i> Vérifier
     </a>
