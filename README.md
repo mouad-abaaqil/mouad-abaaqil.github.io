@@ -454,7 +454,7 @@
             <p style="margin: 0; font-weight: bold;">Lloyds Banking Group</p>
         </div>
     </div>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_Sw5cBtWbfJzbbFXW6_1750615701754_completion_certificate.pdf" target="_blank" 
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Zbnc2o4ok6kD2NEXx/fPrHvjDcgMMh6drzh_Zbnc2o4ok6kD2NEXx_Sw5cBtWbfJzbbFXW6_1750706107401_completion_certificate.pdf" target="_blank" 
        style="display: inline-block; text-decoration: none; background: #28a745; color: white; padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 5px; text-align: center; display: flex; align-items: center; gap: 5px;">
         <i class="fas fa-check-circle"></i> Vérifier
     </a>
